@@ -1,0 +1,7 @@
+{
+  "name": "Water Flow",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
